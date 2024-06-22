@@ -9,4 +9,5 @@ or, 5. git reset HEAD~(reset after commit)
 8. git branch
 9. git branch new-branch(eg. development)
 10. git checkout new-branch (switch to new branch)
+11. git merge -m "comment"
 */ 
