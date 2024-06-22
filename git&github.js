@@ -5,5 +5,6 @@
     working directory-stage-local repository
 
 4. git status(what has been changed)
-5. difference between (add .) and (add *) 
+5. difference between (add .) and (add *)
+6. 
 */  
