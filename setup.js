@@ -11,4 +11,6 @@ or, 5. git reset HEAD~(reset after commit)
 10. git checkout new-branch (switch to new branch)
 11. git merge -m "comment"
 12.git branch -a(list of all branch)
+13. git push
+
 */ 
